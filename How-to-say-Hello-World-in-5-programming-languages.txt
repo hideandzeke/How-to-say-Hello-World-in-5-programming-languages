@@ -1,4 +1,4 @@
-How to say "Hello, World!" in 5 programming languages
+How to say "Hello, World!" in 5 Programming Languages
 
 1. C
 #include <stdio.h>
