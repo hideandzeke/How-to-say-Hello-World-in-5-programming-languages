@@ -1,0 +1,35 @@
+How to say "Hello, World!" in 5 programming languages
+
+1. C
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, World! \n");
+    return 0;
+}
+
+
+2. C++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!";
+    return 0;
+}
+
+
+3. Java
+public class App {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
+
+
+4. Python
+print('Hello, World!')
+
+
+5. Javascript
+console.log('Hello, World');
